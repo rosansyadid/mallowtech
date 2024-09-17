@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "taos": "^1.0.5"
+  }
+}
